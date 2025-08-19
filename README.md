@@ -8,7 +8,7 @@ This dual authentication system provides an extra layer of security by requiring
 
 ## ✨ Features    
        
-### 🔑 **Dual Authentication**       
+### 🔑 **Dual Authentication**           
 - **Text Password**: Traditional alphanumeric password system              
 - **Graphical Password**: Click-based image authentication        
 - **Two-Factor Verification**: Both methods required for access     
