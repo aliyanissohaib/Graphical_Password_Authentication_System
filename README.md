@@ -11,7 +11,7 @@ This dual authentication system provides an extra layer of security by requiring
 ### 🔑 **Dual Authentication**       
 - **Text Password**: Traditional alphanumeric password system      
 - **Graphical Password**: Click-based image authentication    
-- **Two-Factor Verification**: Both methods required for access
+- **Two-Factor Verification**: Both methods required for access     
 
 ### 🛡️ **Security Features**
 - **Password Hashing**: Secure password storage using PHP hashing
