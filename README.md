@@ -12,7 +12,7 @@ This dual authentication system provides an extra layer of security by requiring
 - **Text Password**: Traditional alphanumeric password system                  
 - **Graphical Password**: Click-based image authentication        
 - **Two-Factor Verification**: Both methods required for access     
-     
+        
 ### 🛡️ **Security Features**    
 - **Password Hashing**: Secure password storage using PHP hashing    
 - **Session Management**: Secure user session handling         
