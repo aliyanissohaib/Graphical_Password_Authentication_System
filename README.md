@@ -22,7 +22,7 @@ This dual authentication system provides an extra layer of security by requiring
 
 ### 🎨 **User Experience**
 - **Responsive Design**: Mobile and desktop compatible    
-- **Interactive UI**: Smooth animations and transitions
+- **Interactive UI**: Smooth animations and transitions       
 - **Visual Feedback**: Clear success/error indicators
 - **Progress Indicators**: Step-by-step authentication flow
 
