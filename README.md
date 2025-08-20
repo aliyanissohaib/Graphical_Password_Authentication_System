@@ -14,7 +14,7 @@ This dual authentication system provides an extra layer of security by requiring
 - **Two-Factor Verification**: Both methods required for access     
         
 ### 🛡️ **Security Features**       
-- **Password Hashing**: Secure password storage using PHP hashing        
+- **Password Hashing**: Secure password storage using PHP hashing            
 - **Session Management**: Secure user session handling             
 - **Brute Force Protection**: Login attempt limitations    
 - **SQL Injection Prevention**: Parameterized queries   
