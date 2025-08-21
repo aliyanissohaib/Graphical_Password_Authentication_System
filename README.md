@@ -20,7 +20,7 @@ This dual authentication system provides an extra layer of security by requiring
 - **SQL Injection Prevention**: Parameterized queries   
 - **XSS Protection**: Input sanitization and validation
 
-### 🎨 **User Experience**
+### 🎨 **User Experience**    
 - **Responsive Design**: Mobile and desktop compatible    
 - **Interactive UI**: Smooth animations and transitions       
 - **Visual Feedback**: Clear success/error indicators
