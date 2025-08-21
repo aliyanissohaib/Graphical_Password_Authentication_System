@@ -13,7 +13,7 @@ This dual authentication system provides an extra layer of security by requiring
 - **Graphical Password**: Click-based image authentication        
 - **Two-Factor Verification**: Both methods required for access     
         
-### 🛡️ **Security Features**       
+### 🛡️ **Security Features**            
 - **Password Hashing**: Secure password storage using PHP hashing            
 - **Session Management**: Secure user session handling                        
 - **Brute Force Protection**: Login attempt limitations    
