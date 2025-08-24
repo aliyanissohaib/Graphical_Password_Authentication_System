@@ -1,7 +1,7 @@
 # 🔐 Dual Authentication System
 
 A secure authentication system that combines traditional text passwords with graphical password authentication for enhanced security. Built with modern web technologies for robust user verification.
-
+      
 ## 📖 Description    
 
 This dual authentication system provides an extra layer of security by requiring users to authenticate using both a traditional text password and a graphical password system. The graphical password component uses image-based authentication where users select specific points or patterns on images, making it more resistant to shoulder surfing and keylogger attacks.
